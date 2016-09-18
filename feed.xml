@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinidei</title>
+    <description>Blog about the small things</description>
+    <link>http://reinidei.nu/</link>
+    <atom:link href="http://reinidei.nu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Sep 2016 11:29:33 +0300</pubDate>
+    <lastBuildDate>Sun, 18 Sep 2016 11:29:33 +0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Testiartikkeli</title>
+        <description>&lt;h1 id=&quot;hello&quot;&gt;hello&lt;/h1&gt;
+
+&lt;p&gt;testaa &lt;strong&gt;moi&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://im.gy/images/nvk.png&quot; alt=&quot;vuori&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;testaa&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Sep 2016 10:30:00 +0300</pubDate>
+        <link>http://reinidei.nu/welcome/2016/09/18/Testiartikkeli.html</link>
+        <guid isPermaLink="true">http://reinidei.nu/welcome/2016/09/18/Testiartikkeli.html</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Lorem ipsum dolor sit amet</title>
+        <description>&lt;p&gt;Hello world!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Sep 2016 15:19:43 +0300</pubDate>
+        <link>http://reinidei.nu/welcome/2016/09/04/first.en.html</link>
+        <guid isPermaLink="true">http://reinidei.nu/welcome/2016/09/04/first.en.html</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Lallala lala laa</title>
+        <description>&lt;p&gt;Hei maailma 123!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Sep 2016 15:19:43 +0300</pubDate>
+        <link>http://reinidei.nu/welcome/2016/09/04/eka.fi.html</link>
+        <guid isPermaLink="true">http://reinidei.nu/welcome/2016/09/04/eka.fi.html</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
